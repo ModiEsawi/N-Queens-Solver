@@ -1,0 +1,63 @@
+﻿body {
+    font-family: 'Assistant', sans-serif;
+}
+
+.algorithm-label{
+    font-weight:600;
+
+}
+
+.main-algorithm-container{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+
+
+.stopwatch {
+    display: grid;
+    justify-items: center;
+    grid-row-gap: 23px;
+    width: 100%;
+    padding-top: 25px;
+}
+
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 150px;
+    border: 2px solid;
+    border-radius: 50%;
+    box-shadow: 0px 0px 11px 0px #45b38f;
+}
+
+.time {
+    font-family: "Roboto Mono", monospace;
+    font-weight: 300;
+    font-size: 26px;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+
+@keyframes zoominoutsinglefeatured {
+    0% {
+        transform: scale(1,1);
+    }
+
+    50% {
+        transform: scale(1.2,1.2);
+    }
+
+    100% {
+        transform: scale(1,1);
+    }
+}
+
+.zoomAnimation {
+    animation: zoominoutsinglefeatured 1s infinite;
+}
