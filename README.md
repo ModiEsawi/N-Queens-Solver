@@ -16,3 +16,9 @@ we will be Solving the famous N-Queens problem using diffrent algorithms:
 8) Constraint Optimization using Or-Tools
 
 
+
+https://user-images.githubusercontent.com/59531180/129471932-6a1f7bd8-1b81-4b5b-834c-8d2c384048b2.mp4
+
+
+
+
