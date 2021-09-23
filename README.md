@@ -17,7 +17,11 @@ we will be Solving the famous N-Queens problem using diffrent algorithms:
 
 
 
-https://user-images.githubusercontent.com/59531180/129471932-6a1f7bd8-1b81-4b5b-834c-8d2c384048b2.mp4
+
+
+https://user-images.githubusercontent.com/59531180/134478115-759a4182-d447-4aaf-8705-3d65b5f9bc64.mp4
+
+
 
 
 
